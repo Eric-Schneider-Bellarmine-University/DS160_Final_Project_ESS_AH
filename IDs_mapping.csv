@@ -35,10 +35,10 @@ discharge_disposition_id,description
 24,Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare.
 25,Not Mapped
 26,Unknown/Invalid
-30,Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere
 27,Discharged/transferred to a federal health care facility.
 28,Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital
 29,Discharged/transferred to a Critical Access Hospital (CAH).
+30,Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere
 ,
 admission_source_id,description
 1, Physician Referral
@@ -56,13 +56,13 @@ admission_source_id,description
 13, Sick Baby
 14, Extramural Birth
 15,Not Available
-17,NULL
-18, Transfer From Another Home Health Agency
-19,Readmission to Same Home Health Agency
-20, Not Mapped
-21,Unknown/Invalid
-22, Transfer from hospital inpt/same fac reslt in a sep claim
-23, Born inside this hospital
-24, Born outside this hospital
-25, Transfer from Ambulatory Surgery Center
-26,Transfer from Hospice
+16,NULL
+17, Transfer From Another Home Health Agency
+18,Readmission to Same Home Health Agency
+19, Not Mapped
+20,Unknown/Invalid
+21, Transfer from hospital inpt/same fac reslt in a sep claim
+22, Born inside this hospital
+23, Born outside this hospital
+24, Transfer from Ambulatory Surgery Center
+25,Transfer from Hospice
